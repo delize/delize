@@ -4,9 +4,9 @@ Just beginning to populate this page, so do come back later and check up on it!
 
 Currently: [@EQTPartners](https://github.com/EQTPartners)
 
-Previously apart of: 
-[@epidemicsound](https://github.com/epidemicsound)
-[@thousandeyes](https://github.com/thousandeyes)
+Previously apart of:
+* [@epidemicsound](https://github.com/epidemicsound)
+* [@thousandeyes](https://github.com/thousandeyes)
 
 <!--
 **delize/delize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
