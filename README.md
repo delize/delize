@@ -4,7 +4,7 @@ Just beginning to populate this page, so do come back later and check up on it!
 
 Currently: [@EQTPartners](https://github.com/EQTPartners)
 
-Previously apart of:
+Previously a part of:
 * [@epidemicsound](https://github.com/epidemicsound)
 * [@thousandeyes](https://github.com/thousandeyes)
 
