@@ -26,10 +26,9 @@ Previously a part of:
 
 ## 🔭 Currently Working On
 
-<div align="center">
-<div style="display: flex; justify-content: space-between; width: 100%;">
-
-<div style="width: 48%; text-align: left;">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 **Development & Infrastructure:**
 - 🚀 Learning **Go** programming language
@@ -37,9 +36,8 @@ Previously a part of:
 - 🏗️ **Terraforming Environments** with Infrastructure as Code
 - 🐍 Writing **Python Code** for automation and tooling
 
-</div>
-
-<div style="width: 48%; text-align: left;">
+</td>
+<td width="50%" valign="top">
 
 **Operations & Security:**
 - 📱 **Device Management** for macOS, iOS, Windows, and Android platforms
@@ -47,92 +45,86 @@ Previously a part of:
 - 🛡️ **Security Hardening** and compliance automation
 - 🔑 Implementing **OIDC, SAML, and SCIM** protocols for SSO and provisioning
 
-</div>
-
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-
-<div style="text-align: center; min-width: 120px;">
+<table>
+<tr>
+<td align="center">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=py,go,bash,js&perline=2" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Web
 <img src="https://skillicons.dev/icons?i=html,css,htmx,regex&perline=2" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Cloud
 <img src="https://skillicons.dev/icons?i=azure,gcp,cloudflare,terraform&perline=2" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana&perline=2" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Dev Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,git,githubactions,npm&perline=3" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Platforms
 <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux&perline=2" />
 
-</div>
-
-</div>
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ### Productivity
 <img src="https://skillicons.dev/icons?i=obsidian,md,notion&perline=3" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Communication
 <img src="https://skillicons.dev/icons?i=discord,gmail&perline=2" />
 
-</div>
-
-<div style="text-align: center; min-width: 120px;">
+</td>
+<td align="center">
 
 ### Social
 <img src="https://skillicons.dev/icons?i=linkedin,bots&perline=2" />
 
-</div>
+</td>
+<td align="center">
 
-</div>
+</td>
+<td align="center">
+
+</td>
+</tr>
+</table>
 
 </div>
 
