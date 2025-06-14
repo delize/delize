@@ -2,7 +2,7 @@
 
 # Hi there, I'm Andrew! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Tech+Operations+Engineer;Snowboarder;Tech+Enthusiast;Always+curious)](https://git.io/typing-svg)
 
 </div>
 
