@@ -13,3 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://andrewdoering.org/blog/feed.xml"
+          user_agent: "Mozilla/5.0 (compatible; blog-post-workflow)"
+          retry_count: 3
+          retry_wait_time: 2
