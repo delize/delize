@@ -28,10 +28,6 @@ Previously a part of:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delize&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delize&theme=tokyonight" alt="delize" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
