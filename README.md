@@ -27,24 +27,112 @@ Previously a part of:
 ## 🔭 Currently Working On
 
 <div align="center">
+<div style="display: flex; justify-content: space-between; width: 100%;">
 
-| **Development & Infrastructure** | **Operations & Security** |
-|:---|:---|
-| • 🚀 Learning **Go** programming language<br>• 🔧 Creating **CI/CD Pipelines** for automated deployments<br>• 🏗️ **Terraforming Environments** with Infrastructure as Code<br>• 🐍 Writing **Python Code** for automation and tooling | • 📱 **Device Management** for macOS, iOS, Windows, and Android platforms<br>• 🔐 **Identity Access Management** and user provisioning systems<br>• 🛡️ **Security Hardening** and compliance automation<br>• 🔑 Implementing **OIDC, SAML, and SCIM** protocols for SSO and provisioning |
+<div style="width: 48%; text-align: left;">
 
+**Development & Infrastructure:**
+- 🚀 Learning **Go** programming language
+- 🔧 Creating **CI/CD Pipelines** for automated deployments
+- 🏗️ **Terraforming Environments** with Infrastructure as Code
+- 🐍 Writing **Python Code** for automation and tooling
+
+</div>
+
+<div style="width: 48%; text-align: left;">
+
+**Operations & Security:**
+- 📱 **Device Management** for macOS, iOS, Windows, and Android platforms
+- 🔐 **Identity Access Management** and user provisioning systems
+- 🛡️ **Security Hardening** and compliance automation
+- 🔑 Implementing **OIDC, SAML, and SCIM** protocols for SSO and provisioning
+
+</div>
+
+</div>
 </div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Languages** | **Web** | **Cloud** | **Infrastructure** | **Dev Tools** | **Platforms** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=py,go,bash,js&perline=2" /> | <img src="https://skillicons.dev/icons?i=html,css,htmx,regex&perline=2" /> | <img src="https://skillicons.dev/icons?i=azure,gcp,cloudflare,terraform&perline=2" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana&perline=2" /> | <img src="https://skillicons.dev/icons?i=vscode,github,git,githubactions,npm&perline=3" /> | <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux&perline=2" /> |
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
 
-| **Productivity** | **Databases** | **Communication** | **Social** | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=obsidian,md,notion&perline=3" /> | <img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" /> | <img src="https://skillicons.dev/icons?i=discord,gmail&perline=2" /> | <img src="https://skillicons.dev/icons?i=linkedin,bots&perline=2" /> | | |
+<div style="text-align: center; min-width: 120px;">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=py,go,bash,js&perline=2" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Web
+<img src="https://skillicons.dev/icons?i=html,css,htmx,regex&perline=2" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Cloud
+<img src="https://skillicons.dev/icons?i=azure,gcp,cloudflare,terraform&perline=2" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana&perline=2" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Dev Tools
+<img src="https://skillicons.dev/icons?i=vscode,github,git,githubactions,npm&perline=3" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Platforms
+<img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux&perline=2" />
+
+</div>
+
+</div>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+
+<div style="text-align: center; min-width: 120px;">
+
+### Productivity
+<img src="https://skillicons.dev/icons?i=obsidian,md,notion&perline=3" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Communication
+<img src="https://skillicons.dev/icons?i=discord,gmail&perline=2" />
+
+</div>
+
+<div style="text-align: center; min-width: 120px;">
+
+### Social
+<img src="https://skillicons.dev/icons?i=linkedin,bots&perline=2" />
+
+</div>
+
+</div>
 
 </div>
 
