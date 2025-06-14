@@ -95,6 +95,9 @@ Previously a part of:
 <tr>
 <td align="center">
 
+</td>
+<td align="center">
+
 ### Productivity
 <img src="https://skillicons.dev/icons?i=obsidian,md,notion&perline=3" />
 
@@ -115,9 +118,6 @@ Previously a part of:
 
 ### Social
 <img src="https://skillicons.dev/icons?i=linkedin,bots&perline=2" />
-
-</td>
-<td align="center">
 
 </td>
 <td align="center">
