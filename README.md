@@ -26,10 +26,9 @@ Previously a part of:
 
 ## 🔭 Currently Working On
 
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table width="100%">
 <tr>
-<td width="50%" align="left" valign="top" style="border: none; padding-right: 20px;">
+<td width="50%" valign="top">
 
 **Development & Infrastructure:**
 - 🚀 Learning **Go** programming language
@@ -38,7 +37,7 @@ Previously a part of:
 - 🐍 Writing **Python Code** for automation and tooling
 
 </td>
-<td width="50%" align="left" valign="top" style="border: none; padding-left: 20px;">
+<td width="50%" valign="top">
 
 **Operations & Security:**
 - 📱 **Device Management** for macOS, iOS, Windows, and Android platforms
@@ -49,43 +48,44 @@ Previously a part of:
 </td>
 </tr>
 </table>
-</div>
 
 ## 🛠️ Tech Stack
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="16.66%" style="border: none;">
+<td align="center">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=py,go,bash,js&perline=2" />
 
 </td>
-<td align="center" width="16.66%" style="border: none;">
+<td align="center">
 
 ### Web
 <img src="https://skillicons.dev/icons?i=html,css,htmx,regex&perline=2" />
 
 </td>
-<td align="center" width="16.66%" style="border: none;">
+<td align="center">
 
 ### Cloud
 <img src="https://skillicons.dev/icons?i=azure,gcp,cloudflare,terraform&perline=2" />
 
 </td>
-<td align="center" width="16.66%" style="border: none;">
+<td align="center">
 
 ### Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana&perline=2" />
 
 </td>
-<td align="center" width="16.66%" style="border: none;">
+<td align="center">
 
 ### Dev Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,git,githubactions,npm&perline=3" />
 
 </td>
-<td align="center" width="16.66%" style="border: none;">
+<td align="center">
 
 ### Platforms
 <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux&perline=2" />
@@ -93,35 +93,40 @@ Previously a part of:
 </td>
 </tr>
 <tr>
-<td align="center" style="border: none;">
+<td align="center">
+
+</td>
+<td align="center">
 
 ### Productivity
 <img src="https://skillicons.dev/icons?i=obsidian,md,notion&perline=3" />
 
 </td>
-<td align="center" style="border: none;">
+<td align="center">
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" />
 
 </td>
-<td align="center" style="border: none;">
+<td align="center">
 
 ### Communication
 <img src="https://skillicons.dev/icons?i=discord,gmail&perline=2" />
 
 </td>
-<td align="center" style="border: none;">
+<td align="center">
 
 ### Social
 <img src="https://skillicons.dev/icons?i=linkedin,bots&perline=2" />
 
 </td>
-<td align="center" colspan="2" style="border: none;">
+<td align="center">
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 📊 GitHub Stats
 
