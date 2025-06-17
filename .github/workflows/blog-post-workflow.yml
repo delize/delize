@@ -14,5 +14,5 @@ jobs:
         with:
           feed_list: "https://andrewdoering.org/blog/atom.xml,https://andrewdoering.org/blog/rss.xml"
           user_agent: "Mozilla/5.0 (compatible; blog-post-workflow)"
-          retry_count: 3
-          retry_wait_time: 2
+          retry_count: 5
+          retry_wait_time: 3
