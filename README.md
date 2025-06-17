@@ -17,11 +17,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Subscribe](https://andrewdoering.org/blog/blog/subscribe/)
 - [Building a Loggamera Integration for Home Assistant](https://andrewdoering.org/blog/2025/home-assistant-loggamera/?utm_source=atom_feed)
-- [Building a Loggamera Integration for Home Assistant](https://andrewdoering.org/blog/2025/home-assistant-loggamera/)
 - [What it took to get a scalable Terraform Okta Admin Module](https://andrewdoering.org/blog/2025/okta-terraform-admin-module/?utm_source=atom_feed)
-- [What it took to get a scalable Terraform Okta Admin Module](https://andrewdoering.org/blog/2025/okta-terraform-admin-module/)
+- [How we manage schemas and create dependencies and requirements for other teams in Terraform](https://andrewdoering.org/blog/2025/okta-terraform-creating-dependency-requirement-outputs/?utm_source=atom_feed)
+- [How we manage our Security Policies in Terraform](https://andrewdoering.org/blog/2025/okta-terraform-managing-security-policies/?utm_source=atom_feed)
+- [macOS Privilege Management: Deploying SAP&#39;s Privileges, DataDog Alerts, and Kolide Monitoring](https://andrewdoering.org/blog/2025/macos-privileges/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
