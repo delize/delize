@@ -17,11 +17,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamically Export Okta Group Push Mappings &amp; Automatically Resolve Issues with JavaScript &amp; Okta Workflows](https://andrewdoering.org/blog/2025/okta-group-push-mappings-export-script/?utm_source=atom_feed)
 - [Home Assistant Automation Watchdog: Because Someone Always Clicks the Wrong Thing](https://andrewdoering.org/blog/2025/home-assistant-automation-watchdog/?utm_source=atom_feed)
 - [Random playlist selector for Spotify &amp; Sonos using Home Assistant](https://andrewdoering.org/blog/2025/home-assistant-spotify-sonos-playlist-randomizer/?utm_source=atom_feed)
 - [Easy SSH Key Generator and Git Configuration for IT Support Teams](https://andrewdoering.org/blog/2025/ssh-key-generator-for-it-support/?utm_source=atom_feed)
 - [Building a Loggamera Integration for Home Assistant](https://andrewdoering.org/blog/2025/home-assistant-loggamera/?utm_source=atom_feed)
-- [What it took to get a scalable Terraform Okta Admin Module](https://andrewdoering.org/blog/2025/okta-terraform-admin-module/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
