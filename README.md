@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Currently: **Senior IT Engineer** at 
+Currently: **Senior IT Engineer** at <img src="assets/icons/legora-2.png" width="16" height="16" alt="Legora"> [@Legora](https://github.com/judilica)
 
 Previously a part of:
 * <img src="assets/icons/eqtgroup.ico" width="16" height="16" alt="EQT Group"> [@EQTPartners](https://github.com/EQTPartners)
