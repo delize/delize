@@ -8,9 +8,10 @@
 
 ## 🚀 About Me
 
-Currently: **Tech Operations Engineer** at <img src="assets/icons/eqtgroup.ico" width="16" height="16" alt="EQT Group"> [@EQTPartners](https://github.com/EQTPartners)
+Currently: **Senior IT Engineer** at 
 
 Previously a part of:
+* <img src="assets/icons/eqtgroup.ico" width="16" height="16" alt="EQT Group"> [@EQTPartners](https://github.com/EQTPartners)
 * <img src="assets/icons/epidemicsound.ico" width="16" height="16" alt="Epidemic Sound"> [@epidemicsound](https://github.com/epidemicsound)
 * <img src="assets/icons/thousandeyes.ico" width="16" height="16" alt="ThousandEyes"> [@thousandeyes](https://github.com/thousandeyes)
 
