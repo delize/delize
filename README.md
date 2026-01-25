@@ -18,11 +18,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting Scrybble: reMarkable to Obsidian Sync with Lessons Learned](https://andrewdoering.org/blog/2026/hosting-scrybble/?utm_source=atom_feed)
 - [Microsoft to Google: A Retirement Migration Story](https://andrewdoering.org/blog/2025/microsoft-to-google/?utm_source=atom_feed)
 - [Why iptables-persistent Broke My Docker and Tailscale Setup](https://andrewdoering.org/blog/2025/iptables-persistent-broke-docker-tailscale/?utm_source=atom_feed)
 - [Accessing Internal Services with Cloudflare WARP Connector: A Tailscale Alternative](https://andrewdoering.org/blog/2025/cloudflare-warp-connector-tailscale-alternative/?utm_source=atom_feed)
 - [Dynamically Export Okta Group Push Mappings &amp; Automatically Resolve Issues with JavaScript &amp; Okta Workflows](https://andrewdoering.org/blog/2025/okta-group-push-mappings-export-script/?utm_source=atom_feed)
-- [Home Assistant Automation Watchdog: Because Someone Always Clicks the Wrong Thing](https://andrewdoering.org/blog/2025/home-assistant-automation-watchdog/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
