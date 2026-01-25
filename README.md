@@ -129,25 +129,6 @@ Previously a part of:
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delize&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delize&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=delize&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delize&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
 ## 🔗 Connect with me
 
 <div align="center">
