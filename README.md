@@ -18,11 +18,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Vision LLMs Hate My reMarkable Notes &lpar;And How I Fixed It&rpar;](https://andrewdoering.org/blog/2026/remarkable-pdf-splitter/?utm_source=atom_feed)
-- [Self-Hosting Scrybble: reMarkable to Obsidian Sync with Lessons Learned](https://andrewdoering.org/blog/2026/hosting-scrybble/?utm_source=atom_feed)
-- [Microsoft to Google: A Retirement Migration Story](https://andrewdoering.org/blog/2025/microsoft-to-google/?utm_source=atom_feed)
-- [Why iptables-persistent Broke My Docker and Tailscale Setup](https://andrewdoering.org/blog/2025/iptables-persistent-broke-docker-tailscale/?utm_source=atom_feed)
-- [Accessing Internal Services with Cloudflare WARP Connector: A Tailscale Alternative](https://andrewdoering.org/blog/2025/cloudflare-warp-connector-tailscale-alternative/?utm_source=atom_feed)
+- [Identity at the Edge: Data, Physical Access, and Contextual Trust &lpar;Part 4&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-4/?utm_source=atom_feed)
+- [The Future of Identity: Non-Human Identity, Continuous Authentication, and the Standards Reshaping the Perimeter &lpar;Part 3&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-3/?utm_source=atom_feed)
+- [Identity in Practice: Drift, Lifecycle, and the ROI Math &lpar;Part 2&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-2/?utm_source=atom_feed)
+- [The Identity Tax: Why Security Shouldn&#39;t Be a Premium Feature &lpar;Part 1&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-1/?utm_source=atom_feed)
+- [The Death of the Printer Driver: The Final Death Knell for Printers and Fax](https://andrewdoering.org/blog/2026/the-death-of-the-printer-driver/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
