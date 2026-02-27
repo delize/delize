@@ -18,11 +18,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Okta Device-Bound SSO: Tying Sessions to Hardware](https://andrewdoering.org/blog/2026/okta-device-bound-sso/?utm_source=atom_feed)
 - [Migrating Microsoft 365 SSO Federation from Google Workspace to Okta](https://andrewdoering.org/blog/2026/m365-sso-federation-google-workspace-to-okta/?utm_source=atom_feed)
 - [The Surveillance Trap: Why UBA and UEBA Tools Are a Privacy Nightmare That Can&#39;t Deliver What They Promise](https://andrewdoering.org/blog/2026/the-surveillance-trap/?utm_source=atom_feed)
 - [Identity at the Edge: Data, Physical Access, and Contextual Trust &lpar;Part 4&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-4/?utm_source=atom_feed)
 - [The Future of Identity: Non-Human Identity, Continuous Authentication, and the Standards Reshaping the Perimeter &lpar;Part 3&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-3/?utm_source=atom_feed)
-- [Identity in Practice: Drift, Lifecycle, and the ROI Math &lpar;Part 2&rpar;](https://andrewdoering.org/blog/2026/the-identity-tax-part-2/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
