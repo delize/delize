@@ -18,11 +18,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AuthZEN + Shared Signals Framework — Part 5: Day 2 Operations](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-5-operations/?utm_source=atom_feed)
 - [AuthZEN + Shared Signals Framework — Part 4: Putting It All Together](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-4-implementation/?utm_source=atom_feed)
 - [AuthZEN + Shared Signals Framework — Part 3: Microsoft Entra and M365](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-3-microsoft/?utm_source=atom_feed)
 - [AuthZEN + Shared Signals Framework — Part 2: Okta](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-2-okta/?utm_source=atom_feed)
 - [AuthZEN + Shared Signals Framework — Part 1: Fundamentals](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-1-fundamentals/?utm_source=atom_feed)
-- [Okta Device-Bound SSO: Tying Sessions to Hardware](https://andrewdoering.org/blog/2026/okta-device-bound-sso/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
