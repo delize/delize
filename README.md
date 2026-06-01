@@ -20,9 +20,9 @@ Previously a part of:
 <!-- BLOG-POST-LIST:START -->
 - [Att älska ett land som inte älskar dig tillbaka](https://andrewdoering.org/blog/2026/att-alska-ett-land-som-inte-alskar-dig-tillbaka/?utm_source=atom_feed)
 - [Loving a Country That Doesn&#39;t Love You Back](https://andrewdoering.org/blog/2026/loving-a-country-that-doesnt-love-you-back/?utm_source=atom_feed)
+- [A JSON file walks into the open web](https://andrewdoering.org/blog/2026/a-json-file-walks-into-the-open-web/?utm_source=atom_feed)
 - [AuthZEN + Shared Signals Framework - Part 6: When AuthZEN Says No](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-6-governance/?utm_source=atom_feed)
 - [AuthZEN + Shared Signals Framework - Part 5: Day 2 Operations](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-5-operations/?utm_source=atom_feed)
-- [AuthZEN + Shared Signals Framework - Part 4: Putting It All Together](https://andrewdoering.org/blog/2026/authzen-shared-signals-framework-part-4-implementation/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
