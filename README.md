@@ -19,10 +19,10 @@ Previously a part of:
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Tailscale Doesn&#39;t Fully Work on the reMarkable Paper Pro](https://andrewdoering.org/blog/2026/remarkable-tailscale-tun-kernel/?utm_source=atom_feed)
+- [Custom PDF templates crash-looped my reMarkable, and why the fix gives up the part I actually wanted](https://andrewdoering.org/blog/2026/remarkable-daily-journal-pdf-backgrounds-crash/?utm_source=atom_feed)
 - [Choosing a Provisioning Source of Truth: HRIS, Databases, and Anything-as-a-Source](https://andrewdoering.org/blog/2026/okta-provisioning-source-of-truth/?utm_source=atom_feed)
 - [How to Enable Passwordless Sign-in for Azure Virtual Desktop](https://andrewdoering.org/blog/2026/enable-avd-entra-sso/?utm_source=atom_feed)
 - [Passwordless Azure Virtual Desktop: Token-Based SSO with Entra ID and Okta Upstream](https://andrewdoering.org/blog/2026/passwordless-avd-sso-entra-okta/?utm_source=atom_feed)
-- [Taming the macOS &#39;helper tool&#39; prompt at fleet scale](https://andrewdoering.org/blog/2026/macos-helper-tools/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
