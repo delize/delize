@@ -18,11 +18,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Tailscale Doesn&#39;t Fully Work on the reMarkable Paper Pro](https://andrewdoering.org/blog/2026/remarkable-tailscale-tun-kernel/?utm_source=atom_feed)
 - [Choosing a Provisioning Source of Truth: HRIS, Databases, and Anything-as-a-Source](https://andrewdoering.org/blog/2026/okta-provisioning-source-of-truth/?utm_source=atom_feed)
 - [How to Enable Passwordless Sign-in for Azure Virtual Desktop](https://andrewdoering.org/blog/2026/enable-avd-entra-sso/?utm_source=atom_feed)
 - [Passwordless Azure Virtual Desktop: Token-Based SSO with Entra ID and Okta Upstream](https://andrewdoering.org/blog/2026/passwordless-avd-sso-entra-okta/?utm_source=atom_feed)
 - [Taming the macOS &#39;helper tool&#39; prompt at fleet scale](https://andrewdoering.org/blog/2026/macos-helper-tools/?utm_source=atom_feed)
-- [Device-Bound Session Credentials: Hardware-Bound Cookies, Without the SKU](https://andrewdoering.org/blog/2026/device-bound-session-credentials/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
