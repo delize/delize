@@ -18,11 +18,11 @@ Previously a part of:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailscale&#39;s undocumented deep links](https://andrewdoering.org/blog/2026/tailscale-navigate-deep-links/?utm_source=atom_feed)
 - [Beyond User Delegation: Anthropic&#39;s Case for a Workload Authorization Grant](https://andrewdoering.org/blog/2026/anthropic-workload-authorization-grant/?utm_source=atom_feed)
 - [Okta&#39;s Agent Gateway: Good, With Gaps](https://andrewdoering.org/blog/2026/okta-agent-gateway-good-with-gaps/?utm_source=atom_feed)
 - [Oktane 2026 Roundup](https://andrewdoering.org/blog/2026/oktane-2026-roundup/?utm_source=atom_feed)
 - [Tailscale without always-on](https://andrewdoering.org/blog/2026/tailscale-without-always-on/?utm_source=atom_feed)
-- [Agent Identity on the MCP Roadmap: Cross-App Access and ID-JAG](https://andrewdoering.org/blog/2026/cross-app-access-mcp-roadmap/?utm_source=atom_feed)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Currently Working On
